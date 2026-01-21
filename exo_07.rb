@@ -1,4 +1,4 @@
-
+# A code that displays a countdown
 puts "Enter a number you want me to count to :"
 
 count_to = gets.chomp.to_i
